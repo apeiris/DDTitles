@@ -1,0 +1,14 @@
+<template>
+    <lightning-card title="Select Title">
+        <div class="slds-m-around_medium">
+            <lightning-combobox
+                name="title"
+                label="Title"
+                value={selectedTitle}
+                placeholder="Select a title"
+                options={titleOptions}
+                onchange={handleChange}>
+            </lightning-combobox>
+        </div>
+    </lightning-card>
+</template>
