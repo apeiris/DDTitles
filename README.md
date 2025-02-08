@@ -7,12 +7,18 @@
 ## <span style="Color: brown"/> Activate in Salesforce 
 
 
-1. <span style="color:Brown"/> Setup/Lightning App builder
-2.    Click the New button.
-3.    Choose App Page and click Next.
-4.    Enter DDTitlesApp as the Label for your new app.
-5.    Select a one-region layout (or any layout you prefer).
-6.    Click Finish.
+## Setting Up the DDTitlesApp in Lightning App Builder
+
+Follow these steps to create a new Lightning App Page:
+
+1. Open **Lightning App Builder**.
+2. Click the **New** button.
+3. Select **App Page** and click **Next**.
+4. Enter **DDTitlesApp** as the **Label** for your new app.
+5. Choose a **one-region layout** (or select any layout you prefer).
+6. Click **Finish** to create the app.
+
+Your Lightning App Page is now ready!
 
 
 
