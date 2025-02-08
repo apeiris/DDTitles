@@ -1,4 +1,4 @@
-# This project demonstrate creating LWC dropdown (picklist) component.
+# This project demonstrate creating Salesforce LWC dropdown (picklist) component.
 ### This requires only 
 + ddTitles.html
 + ddTitles.js
